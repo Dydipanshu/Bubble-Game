@@ -1,4 +1,4 @@
-let timer = 6;
+let timer = 60;
 let score = 0;
 let ht;
 
@@ -12,7 +12,7 @@ document.querySelector("#pbtm").addEventListener("click", function (dets) {
 });
 
 function newGame() {
-  timer = 6;
+  timer = 60;
   score = 0;
   document.querySelector("#time").textContent = timer;
   document.querySelector("#score").textContent = score;
