@@ -31,6 +31,11 @@ This is a simple web-based bubble-popping game implemented using HTML, CSS, and 
 ![Game Screenshot](Bubble%20game%20screenshot.jpeg)
 
 
+## Live Version
+
+You can access the live version of the website by following this link: [Live Demo](https://dybubblegame.netlify.app/)
+
+
 ## Acknowledgments
 
 - This project was inspired by a desire to learn web development.
